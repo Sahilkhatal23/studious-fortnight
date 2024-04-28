@@ -5,7 +5,7 @@
 - Application Hosted on Heroku 
 All the dependences can be found in the requirements.txt 
 
-App link hosted on streamlit team: https://s4a.streamlit.io/opeyemibami/wine-quality-prediction-web-app/master/app.py/+/
+App link hosted on streamlit team : https://opeyemibami-wine-quality-prediction-web-app-app-i2erud.streamlit.app/
 
 App link on heroku: https://wine-quality-web-app.herokuapp.com/
 
